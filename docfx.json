@@ -21,7 +21,8 @@
     "template": [
       "default",
       "modern",
-      "templates/common"
+      "templates/common",
+      "templates/modern_ex"
     ],
     "globalMetadata": {
       "_appName": "KiloathBook",

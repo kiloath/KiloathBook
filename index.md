@@ -9,8 +9,12 @@ _layout: landing
 # {3!} 使用
 * 指令
   ```
-  docfx docfx.json --serve
+  git clone --depth=1 https://github.com/kiloath/KiloathBook.git
+  cd .\KiloathBook\
+  $j=docfx --serve &
   start http://localhost:8080
+  stop-job $j
   ```
 # {4!} 客製
 * (1) 變更圖示
+* (2) 變更頁尾
