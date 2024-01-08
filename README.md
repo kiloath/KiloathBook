@@ -1,6 +1,7 @@
 # Kiloath Book
 # {1!} 關於
-* [站台: https://kiloath.github.io/KiloathBook/](https://kiloath.github.io/KiloathBook/)
+* [站台 github page](https://kiloath.github.io/KiloathBook/)
+* [原始碼 github](https://github.com/kiloath/KiloathBook)
 # {2!} 參考
 * [docfx](https://dotnet.github.io/docfx/)
 # {3!} 使用
